@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "restaurant-b19": {
+      "hosting": {
+        "restaurant": [
+          "restaurant-b19"
+        ]
+      }
+    }
+  }
+}
